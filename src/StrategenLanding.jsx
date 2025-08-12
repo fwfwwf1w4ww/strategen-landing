@@ -100,15 +100,6 @@ export default function StrategenLanding() {
         </form>
       </section>
 
-      <nav className="space-x-4">
-  <a href="#features" className="hover:text-gray-400">Features</a>
-  <a href="#about" className="hover:text-gray-400">About</a>
-  <a href="#contact" className="hover:text-gray-400">Contact</a>
-</nav>
-
-      <section id="features">...</section>
-<section id="about">...</section>
-<section id="contact">...</section>
 
       {/* ===============================
           FOOTER
