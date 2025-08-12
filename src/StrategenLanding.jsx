@@ -100,7 +100,6 @@ export default function StrategenLanding() {
         </form>
       </section>
 
-
       {/* ===============================
           FOOTER
           =============================== */}
